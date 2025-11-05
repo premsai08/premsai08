@@ -2,13 +2,13 @@
 
 🎓 Electronics and Communication Engineering graduate  
 💻 Passionate about Software Development, Embedded Systems & Web Technologies  
-🌱 Currently exploring: Full-stack Development | Embedded Systems | AI  
+🌱 Currently exploring: Full-stack Development | AI  
 📍 Based in Tirupati, India  
 💬 Ask me about Java, Python, Flutter, Arduino, and more!
 
 ## 🚀 Skills & Tools
 
-- 👨‍💻 Languages: Java | Python | C | Dart | SQL  
+- 👨‍💻 Languages: Java | SQL  
 - 🌐 Web: HTML | CSS | JavaScript | React | Node.js  
 - 📱 Mobile: Flutter | Android Studio  
 - ⚙️ Platforms: Arduino (Uno & Nano), Firebase, Git, GitHub  
@@ -24,7 +24,7 @@ A full-stack e-commerce platform for efficient online shopping.
 ### 📱 Zidio – Flutter Mobile App  
 Built during my internship, this app showcases modern UI and database handling using Firebase.
 
-### 🔌 Embedded Projects  
+### 🔌 IOT Projects  
 - Obstacle Avoider using Arduino Nano  
 - Smart Irrigation System using Arduino Uno
 
@@ -44,8 +44,8 @@ Built during my internship, this app showcases modern UI and database handling u
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: (Add if available)
+- 📧 Email: premsaiachari1213@gmail.com  
+- 🌐 Portfolio: https://portofoliopremsai.netlify.app/
 
 ⭐ *“Driven by curiosity, powered by code.”*  
 
@@ -59,4 +59,4 @@ Built during my internship, this app showcases modern UI and database handling u
 ---
 [![](https://visitcount.itsvg.in/api?id=premsai08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
