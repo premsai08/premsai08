@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&width=600&lines=Hey+%F0%9F%91%8B+I'm+Gurram+Prem+Sai;Python+%7C+Django+%7C+GenAI+Engineer;Building+things+that+work+%F0%9F%9A%80" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&width=600&lines=Hey+%F0%9F%91%8B+I'm+G+Prem+Sai;Python+%7C+Django+%7C+GenAI+Engineer;Building+things+that+work+%F0%9F%9A%80" alt="Typing SVG" />
 
 <div align="center">
 
