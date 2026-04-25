@@ -15,7 +15,7 @@ class PremSai:
     def __init__(self):
         self.name       = "Gurram Prem Sai"
         self.role       = ["Python Developer", "Django Backend", "GenAI Engineer"]
-        self.location   = "Tirupati, India 📍"
+        self.location   = "Bangalore, India 📍"
         self.status     = "Open to Relocation 🌍"
         self.email      = "gurrampremsai82@gmail.com"
         self.education  = "B.Tech ECE — Annamacharya Institute (2025)"
