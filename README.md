@@ -2,7 +2,7 @@
 <tr>
 <td align="center">
 
-<a href="mailto:gurrampremsai82@gmail.com">
+<a href="mailto:premsaiachari1213@gmail.com">
 gurrampremsai82@gmail.com
 </a>
 
@@ -10,7 +10,7 @@ gurrampremsai82@gmail.com
 
 <td align="center">
 
-<a href="https://www.linkedin.com/in/g-prem-sai-achaari-739571236/">
+<a href="https://www.linkedin.com/in/g-prem-sai-739571236/">
 LinkedIn
 </a>
 
